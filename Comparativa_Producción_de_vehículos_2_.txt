@@ -1,0 +1,40 @@
+Paises	Fecha	Vehículos_comerciales_Año	Vehículos pasajeros Año	Produccion_anua_de_vehículos		Var.	Marca más vedida
+Alemania [+]	2020	227.082	3.515.372	3.742.454		-19,71%	Volkswagen
+Argentina [+]	2020	164.186	93.001	257.187		-18,30%	Toyota
+Australia [+]	2017	10.437	88.195	98.632		-38,85%	Toyota
+Austria [+]	2020	0	104.544	104.544		8,61%	Volkswagen
+Brasil [+]	2020	405.185	1.608.870	2.014.055		-28,17%	Chevrolet
+Bélgica [+]	2020	30.403	237.057	267.46		8,27%	Volkswagen
+Canadá [+]	2020	1.048.942	327.681	1.376.623		-27,29%	Ford
+Chequia [+]	2020	6.25	1.152.901	1.159.151		-18,80%	Skoda
+China [+]	2020	5.231.161	19.994.081	25.225.242		7,97%	Nissan
+Corea del Sur [+]	2020	295.068	3.211.706	3.506.774		-11,23%	Hyundai
+Egipto [+]	2020	0	23.754	23.754		28,40%	Toyota
+Eslovaquia [+]	2020	0	985	985		-10,45%	Skoda
+Eslovenia [+]	2020	0	141.714	141.714		-28,82%	Skoda
+España [+]	2020	467.521	1.800.664	2.268.185		-18,19%	Toyota
+Estados Unidos [+]	2020	6.895.604	1.926.795	8.822.399		-16,25%	Toyota
+Finlandia [+]	2020	0	86.27	86.27		-24,84%	Skoda
+Francia [+]	2020	388.653	927.718	1.316.371		-40,23%	Peugeot
+Hungría [+]	2020	0	406.497	406.497		-18,40%	Suzuki
+India [+]	2020	543.178	2.851.268	3.394.446		-19,08%	Maruti
+Indonesia [+]	2020	139.886	551.4	691.286		-42,00%	Toyota
+Irán [+]	2020	54.787	826.21	880.997		8,66%	Ford
+Italia [+]	2020	325.339	451.826	777.165		-9,04%	FIAT
+Japón [+]	2020	1.107.532	6.960.025	8.067.557		-12,01%	Toyota
+Malasia [+]	2020	27.431	457.755	485.186		-15,12%	Honda
+Marruecos [+]	2020	27.131	221.299	248.43		-37,05%	Dacia
+México [+]	2020	2.209.121	967.479	3.176.600		-15,80%	Nissan
+Países Bajos [+]	2017	2.28	155	157.28		254,00%	KIA
+Polonia [+]	2020	172.482	278.9	451.382		-29,75%	Toyota
+Portugal [+]	2020	52.955	211.281	264.236		-22,35%	Renault
+Reino Unido [+]	2020	66.116	920.928	987.044		-27,45%	Volkswagen
+Rumanía [+]	2020	0	438.107	438.107		-10,67%	Dacia
+Rusia [+]	2020	174.818	1.260.517	1.435.335		-12,59%	KIA
+Serbia [+]	2020	103	23.272	23.375		-33,42%	Skoda
+Sudáfrica [+]	2020	209.002	238.216	447.218		-25,85%	Toyota
+Suecia [+]	2017	0	226	226		10,04%	Volvo
+Tailandia [+]	2020	889.441	537.633	1.427.074		-29,13%	Toyota
+Taiwan [+]	2020	64.648	180.967	245.615		0,07%	Toyota
+Turquía [+]	2020	442.835	855.043	1.297.878		-9,27%	Renault
+Ucrania [+]	2020	750	4.202	4.952		-22,50%	Toyota
